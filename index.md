@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default 
 title: 공유 오피스 안내
 description: 편안하고 효율적인 업무 공간을 제공하는 공유 오피스입니다.
 ---
